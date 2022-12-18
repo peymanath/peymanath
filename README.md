@@ -1,43 +1,44 @@
-## Hi 👋
+### 👨🏻‍🦱 About Me 
+
+I am a Front-END developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
+
+- 🔭 As a front-end developer, I create web applications.
+- ⚡ In my free time, I solve problems on [PeymanATH](<https://peymanath.ir/> "PeymanATH") and read tech articles.
 
 ---
 
-## My Best Repo :
+### 📌 My Social
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=Linkedin&logoColor=white&style=flat) ](https://www.linkedin.com/in/peymanath)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=flat)](https://github.com/peymanath)
+[![Stack Overflow](https://img.shields.io/badge/Stack&nbsp;Overflow-F58025?logo=StackOverflow&logoColor=white&style=flat)](https://stackoverflow.com/users/20623408/peymanath)
+[![WebSite](https://img.shields.io/badge/WebSite-21759B?logo=WordPress&logoColor=white&style=flat)](https://peymanath.ir)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white&style=flat)](mailto:peymanath@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-229ED9?logo=Telegram&logoColor=white&style=flat)](https://t.me/peymanath)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white&style=flat)](https://www.instagram.com/peymanath)
+
+---
+
+### 📈 My Best Repo :
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=peymanath&repo=add-schema-category-wordpress)](https://github.com/peymanath/add-schema-category-wordpress)
 
 ---
 
-## My Stats :
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> My Stats :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peymanath&show_icons=true&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=784DC7)
 
 ---
-## 🌍 &nbsp;Must Used Labguage :
+### 🛠 &nbsp;Languages and Tools :
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peymanath&layout=compact)
 
----
-
-## 🛠 &nbsp;Languages and Tools :
-
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>&nbsp;
-</p>
-
-## 👨‍💻 &nbsp;Front-End :
-
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" **alt="TailwindCSS" width="60" height="60"/>&nbsp;
-</p>
-
-## 👨‍💻 &nbsp;Back-End :
-
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="php" **alt="php" width="60" height="60"/>&nbsp;
-</p>
-
+![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=flat)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind&nbsp;CSS-06B6D4?logo=TailwindCSS&logoColor=white&style=flat)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white&style=flat)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=WordPress&logoColor=white&style=flat)
 
 
 
