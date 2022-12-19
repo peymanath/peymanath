@@ -27,10 +27,7 @@ I am a Front-END developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 <div width="100%" align="center">
   <a align="left" href="https://github.com/peymanath/add-schema-category-wordpress" title="add schema category wordpress">
-   <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=peymanath&repo=add-schema-category-wordpress&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=fff">
-  </a>
-  <a align="right" href="https://github.com/peymanath/property-rental-app" title="property rental app">
-   <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=peymanath&repo=property-rental-app&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=fff">
+   <img align="left" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=peymanath&repo=add-schema-category-wordpress&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=fff">
   </a>
 </div>
 <br/><br/><br/><br/><br/><br/>
