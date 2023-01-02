@@ -31,7 +31,7 @@ I am a Front-END developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 <div width="100%" align="center">
   <a align="left" href="https://github.com/peymanath/property-rental-app" title="add schema category wordpress">
-   <img align="left" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=peymanath&repo=property-rental-app&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=fff">
+   <img align="left" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=peymanath&repo=property-rental-app&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=ffffff">
   </a>
     <a align="right" href="https://github.com/tailwind-parsi/flexui-components" title="flexui components">
    <img align="right" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=tailwind-parsi&repo=flexui-components&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=fff">
