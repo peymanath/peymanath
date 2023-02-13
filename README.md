@@ -44,8 +44,8 @@ I am a Front-END developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <a align="left" href="https://github.com/peymanath/shopping-cart" title="Shopping Cart">
    <img align="left" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=peymanath&repo=shopping-cart&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=ffffff">
   </a>
-  <a align="right" href="https://github.com/peymanath/TodoList" title="TodoList">
-   <img align="right" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=peymanath&repo=TodoList&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=ffffff">
+  <a align="right" href="https://github.com/peymanath/gold-galculator" title="gold-galculator">
+   <img align="right" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=peymanath&repo=gold-galculator&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=ffffff">
   </a>
 </div>
 
