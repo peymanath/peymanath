@@ -84,6 +84,10 @@ I am a Front-END developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=WordPress&logoColor=white&style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind&nbsp;CSS-06B6D4?logo=TailwindCSS&logoColor=white&style=for-the-badge)
 ![Swiper](https://img.shields.io/badge/Swiper-6332F6?logo=Swiper&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&logoColor=black&style=for-the-badge)
+![Create React App](https://img.shields.io/badge/Create&nbsp;React&nbsp;App-09D3AC?logo=CreateReactApp&logoColor=white&logoColor=black&style=for-the-badge)
+
+
 
 ### 💻 Software and Tools:
 ![Visual Studio Code](https://img.shields.io/badge/Visual&nbsp;Studio&nbsp;Code-007ACC?logo=VisualStudioCode&logoColor=white&style=for-the-badge)
