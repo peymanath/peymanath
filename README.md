@@ -4,7 +4,7 @@
 
 ### 👨🏻‍🦱 About Me 
 
-I am a Front-END developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
+I am a Front-END & WordPress developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
 
 - 🔭 As a front-end developer, I create web applications.
 - ⚡ In my free time, I solve problems on [PeymanATH](<https://peymanath.ir/> "PeymanATH") and read tech articles.
