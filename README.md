@@ -1,77 +1,22 @@
-<h1 align="center">
+<h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+There!+👋;I'm+Peyman+Naderi;I'm+happy+to+meet+you,+my+dear!&center=true&font=Vazirmatn&weight=800&duration=3000&pause=1000&height=100&width=500&color=FDC435&size=30">
 </h1>
 
+---
+
 ### 👨🏻‍🦱 About Me 
 
-I am a Front-END & WordPress developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
+I'm a Front-END & WordPress developer from Iran & working 127.0.01 Company
 
-- 🔭 As a front-end developer, I create web applications.
-- ⚡ In my free time, I solve problems on [PeymanATH](<https://peymanath.ir/> "PeymanATH") and read tech articles.
-
----
-
-### 📌 My Social
-
-<div align="center">
-    
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=Linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/peymanath)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=for-the-badge)](https://github.com/peymanath)
-[![Stack Overflow](https://img.shields.io/badge/Stack&nbsp;Overflow-F58025?logo=StackOverflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/20623408/peymanath)
-[![WebSite](https://img.shields.io/badge/WebSite-21759B?logo=WordPress&logoColor=white&style=for-the-badge)](https://peymanath.ir)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:peymanath@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-229ED9?logo=Telegram&logoColor=white&style=for-the-badge)](https://t.me/peymanath)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/peymanath)
-    
-</div>
+- 🔭 As a front-end developer, I create web applications. I also make good exclusive themes wordpress.
+- ⚡ Now ... I'm ready to work with big teams.
 
 ---
 
-### 📈 My Best Repo :
-
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/peymanath/react-admin-panel" title="React Admin Panel">
-  <img align="left" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=peymanath&repo=react-admin-panel&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=ffffff">
-  </a>
-    <a align="right" href="https://github.com/peymanath/adminpanel" title="Admin Panel">
-   <img align="right" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=peymanath&repo=adminpanel&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=fff">
-  </a>
-</div>
-
-<br/><br/><br/><br/><br/><br/>
-
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/peymanath/shopping-cart" title="Shopping Cart">
-   <img align="left" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=peymanath&repo=shopping-cart&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=ffffff">
-  </a>
-  <a align="right" href="https://github.com/peymanath/gold-galculator" title="gold-galculator">
-   <img align="right" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=peymanath&repo=gold-galculator&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=ffffff">
-  </a>
-</div>
-
-<br/><br/><br/><br/><br/><br/>
-
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/peymanath/property-rental-app" title="property rental app">
-   <img align="left" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=peymanath&repo=property-rental-app&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=ffffff">
-  </a>
-    <a align="right" href="https://github.com/peymanath/flex-ui" title="flexui components">
-   <img align="right" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=peymanath&repo=flex-ui&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=fff">
-  </a>
-</div>
-
-<br/><br/><br/><br/><br/><br/>
-
----
-
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> My Stats :
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My Stats :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peymanath&show_icons=true&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=fff)
 
 ---
-
-### 🛠  Languages :
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peymanath&layout=compact)
 
 ### 👨‍💻 Programming and Markup Language :
 
@@ -98,3 +43,11 @@ I am a Front-END & WordPress developer <img src="https://media.giphy.com/media/W
 ![GitHub Desktop](https://img.shields.io/badge/GitHub&nbsp;Desktop-8034a9?logo=GitHub&logoColor=white&style=for-the-badge)
 ![GitKraken](https://img.shields.io/badge/GitKraken-179287?logo=GitKraken&logoColor=white&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white&style=for-the-badge)
+
+### 📌 My Social
+    
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=Linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/peymanath)
+[![Stack Overflow](https://img.shields.io/badge/Stack&nbsp;Overflow-F58025?logo=StackOverflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/20623408/peymanath)
+[![WebSite](https://img.shields.io/badge/WebSite-21759B?logo=WordPress&logoColor=white&style=for-the-badge)](https://peymanath.ir)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:peymanath@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-229ED9?logo=Telegram&logoColor=white&style=for-the-badge)](https://t.me/peymanath)
