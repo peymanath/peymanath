@@ -13,11 +13,6 @@ I'm a Front-END & WordPress developer from Iran & working 127.0.01 Company
 
 ---
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peymanath&show_icons=true&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=fff)
-
----
-
 ### 👨‍💻 Programming :
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=for-the-badge)
@@ -32,9 +27,6 @@ I'm a Front-END & WordPress developer from Iran & working 127.0.01 Company
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=Axios&logoColor=white&style=for-the-badge)
 ![Npm](https://img.shields.io/badge/Npm-CB3837?logo=Npm&logoColor=white&style=for-the-badge)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=Yarn&logoColor=white&style=for-the-badge)
-
-
-### 💻 Software and Tools:
 ![Visual Studio Code](https://img.shields.io/badge/Visual&nbsp;Studio&nbsp;Code-007ACC?logo=VisualStudioCode&logoColor=white&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white&style=for-the-badge)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe&nbsp;Illustrator-FF9A00?logo=AdobeIllustrator&logoColor=white&style=for-the-badge)
@@ -48,6 +40,5 @@ I'm a Front-END & WordPress developer from Iran & working 127.0.01 Company
     
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=Linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/peymanath)
 [![Stack Overflow](https://img.shields.io/badge/Stack&nbsp;Overflow-F58025?logo=StackOverflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/20623408/peymanath)
-[![WebSite](https://img.shields.io/badge/WebSite-21759B?logo=WordPress&logoColor=white&style=for-the-badge)](https://peymanath.ir)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:peymanath@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:naderidefault@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-229ED9?logo=Telegram&logoColor=white&style=for-the-badge)](https://t.me/peymanath)
