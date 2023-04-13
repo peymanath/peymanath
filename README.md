@@ -22,8 +22,6 @@ I'm a Front-END & WordPress developer from Iran & working 127.0.01 Company
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=WordPress&logoColor=white&style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind&nbsp;CSS-06B6D4?logo=TailwindCSS&logoColor=white&style=for-the-badge)
 ![Swiper](https://img.shields.io/badge/Swiper-6332F6?logo=Swiper&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black&style=for-the-badge)
-![Create React App](https://img.shields.io/badge/Create&nbsp;React&nbsp;App-09D3AC?logo=CreateReactApp&logoColor=black&style=for-the-badge)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=Axios&logoColor=white&style=for-the-badge)
 ![Npm](https://img.shields.io/badge/Npm-CB3837?logo=Npm&logoColor=white&style=for-the-badge)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=Yarn&logoColor=white&style=for-the-badge)
@@ -35,7 +33,10 @@ I'm a Front-END & WordPress developer from Iran & working 127.0.01 Company
 ![GitHub Desktop](https://img.shields.io/badge/GitHub&nbsp;Desktop-8034a9?logo=GitHub&logoColor=white&style=for-the-badge)
 ![GitKraken](https://img.shields.io/badge/GitKraken-179287?logo=GitKraken&logoColor=white&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white&style=for-the-badge)
-
+![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black&style=for-the-badge)
+![NextJs](https://img.shields.io/badge/NextJs-000000?logo=Next.js&logoColor=white&style=for-the-badge)
+![Create React App](https://img.shields.io/badge/CRA-09D3AC?logo=CreateReactApp&logoColor=black&style=for-the-badge)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=Vite&logoColor=white&style=for-the-badge)
 ### 📌 My Social
     
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=Linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/peymanath)
