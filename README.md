@@ -1,19 +1,4 @@
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+There!+👋;I'm+Peyman+Naderi;I'm+happy+to+meet+you,+my+dear!&center=true&font=Vazirmatn&weight=800&duration=3000&pause=1000&height=100&width=500&color=FDC435&size=30">
-</h1>
-
----
-
-### 👨🏻‍🦱 About Me 
-
-I'm a Front-END & WordPress developer from Iran & working 127.0.01 Company
-
-- 🔭 As a front-end developer, I create web applications. I also make good exclusive themes wordpress.
-- ⚡ Now ... I'm ready to work with big teams.
-
----
-
-### 👨‍💻 Programming :
+# 👨‍💻 Peyman Naderi Skills :
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=for-the-badge)
@@ -37,9 +22,3 @@ I'm a Front-END & WordPress developer from Iran & working 127.0.01 Company
 ![NextJs](https://img.shields.io/badge/NextJs-000000?logo=Next.js&logoColor=white&style=for-the-badge)
 ![Create React App](https://img.shields.io/badge/CRA-09D3AC?logo=CreateReactApp&logoColor=black&style=for-the-badge)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=Vite&logoColor=white&style=for-the-badge)
-### 📌 My Social
-    
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=Linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/peymanath)
-[![Stack Overflow](https://img.shields.io/badge/Stack&nbsp;Overflow-F58025?logo=StackOverflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/20623408/peymanath)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:naderidefault@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-229ED9?logo=Telegram&logoColor=white&style=for-the-badge)](https://t.me/peymanath)
