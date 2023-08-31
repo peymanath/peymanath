@@ -23,7 +23,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white&style=for-the-badge)
 
 ### Team & Products
-- [Nivaad Team](https://nivaad.com)
 - Huga Icons
   - [Iran](https://huge-icon.iran.liara.run/)
   - [United States](https://huge-icons.zerolimit.ir/)
