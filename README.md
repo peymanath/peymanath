@@ -31,3 +31,5 @@
 - Huga Icons
   - [Iran](https://huge-icon.iran.liara.run/)
   - [United States](https://huge-icons.zerolimit.ir/)
+
+vless://2435226-48b5-4a6d-accf-3e78307cdb96@s.aldorqi.online:8443?encryption=none&security=tls&sni=m.aldorqi.online&alpn=h2%2Chttp%2F1.1&type=tcp&headerType=http&host=zula.ir#mci-Pyman-clone
