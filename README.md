@@ -29,6 +29,5 @@
 
 ### Team & Products
 - Huga Icons
-  - [Iran](https://huge-icon.iran.liara.run/)
   - [United States](https://huge-icons.zerolimit.ir/)
 
