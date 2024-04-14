@@ -27,7 +27,3 @@
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=Prettier&logoColor=black&style=for-the-badge)
 ![Husky](https://img.shields.io/badge/Husky-10b981?style=for-the-badge)
 
-### Team & Products
-- Huga Icons
-  - [United States](https://huge-icons.zerolimit.ir/)
-
